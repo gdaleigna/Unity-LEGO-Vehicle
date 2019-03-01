@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{A513BC8D-6A7D-D6C5-EEBE-D27CF600D276}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Camera_Look.cs">
+    <Files>
+      <File FileName="Assets/Scripts/WheelDrive.cs" Line="1" Column="1" />
+      <File FileName="Assets/Camera_Look.cs" Line="34" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Test" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True" />
+              <Node name="Camera_Look.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
